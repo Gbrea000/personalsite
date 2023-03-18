@@ -1,0 +1,171 @@
+a{
+    color: #AAC4FF;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 25px 10px 15px;
+    text-decoration: none;
+
+}
+a:hover{
+    color: #EEF1FF;
+}
+
+body{
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+
+
+
+}
+.book{
+    margin: 40px auto;
+
+    width: 15%;
+}
+.bottom-cloud{
+
+    left: 17%;
+    max-width: 16%;
+    position: absolute;
+    top: 35%;
+
+}
+.bottom-container{
+    background-color: #AAC4FF;
+    font-size: small;
+    padding: 30px ;
+}
+.btn{
+
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: 'Montserrat';
+        color: #ffffff;
+        font-size: 13px;
+        background: #AAC4FF;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+    }
+
+
+.btn:hover {
+        background: #B1B2FF;
+        text-decoration: none;
+    }
+
+
+.computerSticker{
+    bottom: 40px;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    width: 40%;
+}
+.copywrite{
+    padding-bottom: 5px;
+    padding-top: 20px;
+
+    color: #EEF1FF;
+    font-size: x-small;
+
+}
+.credit{
+    color: #7c7dbe;
+}
+div{
+    background-color: #EEF1FF;
+}
+.footer-link{
+    color: #7c7dbe;
+}
+h1{
+    color: #AAC4FF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem; /* 16px = 1em = 100% */
+    font-weight: normal;
+    /*line-height: 2;*/
+    margin: 3.5rem auto 0 auto;
+
+
+}
+h2{
+    color: #AAC4FF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+    font-weight: lighter;
+    margin: 0;
+    padding-bottom: 10px;
+
+
+
+}
+h3{
+    color: #B1B2FF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+
+}
+hr{
+    border-color: #D2DAFF;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 6%;
+    margin: 100px auto;
+}
+img{
+    max-width: 27rem;
+}
+
+p{
+    margin: 0;
+    font-weight: lighter;
+
+}
+.pcontact{
+    line-height: 2;
+    margin: 40px auto 60px;
+    width: 50%;
+}
+.profile{
+    line-height: 2;
+    margin-left: 25%;
+    width: 50%;
+
+
+}
+.skill-row{
+
+    line-height: 2;
+    margin:100px auto;
+    text-align: left;
+    width: 50%;
+
+
+
+}
+.top-cloud{
+
+    position: absolute;
+    right: 20%;
+    top: 2%;
+    max-width: 17%;
+
+
+}
+.top-container{
+
+    background-color: #EEF1FF;
+
+
+    padding-top: 10%;
+
+
+}
+.wfhSticker{
+margin-left: 3px;
+    float: right;
+    width: 35%;
+}
